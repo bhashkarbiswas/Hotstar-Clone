@@ -1,2 +1,2 @@
 # Hotstar-Clone
-Created with CodeSandbox
+Created a Disney+ Hotstar Clone using HTML, CSS & JS!
